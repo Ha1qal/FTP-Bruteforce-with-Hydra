@@ -1,1 +1,12 @@
-test
+![enum](https://github.com/user-attachments/assets/ea22eec3-ca4f-4e2d-85fd-286f24d4c649)
+![72telnet](https://github.com/user-attachments/assets/73c4d8e2-df94-4973-992d-eb23924ff1e1)
+![commandtoexpoit](https://github.com/user-attachments/assets/e9c13067-66ab-4b76-a379-1c6c532034dd)
+![enumcommand](https://github.com/user-attachments/assets/ac41a249-f56d-4e42-86b0-61eb663475b1)
+![ftpcommandandresults](https://github.com/user-attachments/assets/4d1ebda0-89a1-4714-8cf8-4b0118f050b6)
+![nmapscan](https://github.com/user-attachments/assets/01d1b0a1-282a-40ae-9a2f-2d37a1223471)
+![openmsconsole](https://github.com/user-attachments/assets/8d81365a-7dab-43e8-bb32-1f8c7ecdd2fb)
+![sniffusingwireshark](https://github.com/user-attachments/assets/4551fd72-7905-41a8-8acd-7d834db15b08)
+![sshcommand](https://github.com/user-attachments/assets/c0c9cd79-b0b6-4e1b-a6fd-329246d7d965)
+![sshresults](https://github.com/user-attachments/assets/0d3dfb3c-d530-4822-afd1-66372bffb833)
+![vimusers](https://github.com/user-attachments/assets/2cdd2b97-2dde-488b-83da-396b201ec0e4)
+![telnetloginsuccesfull](https://github.com/user-attachments/assets/79543096-609f-47f5-a07f-76f544efc3aa)
